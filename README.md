@@ -12,7 +12,7 @@ The dataset used in this project is the Pakistan's Largest E-commerce Dataset.
 ## Analysis
 The analysis includes:
 - Data loading and inspection
-- Data cleaning and praprocessing
+- Data cleaning and preprocessing
 - Data manipulation using Pandas
 - Exploratory data analysis
 - Extracting insights from the dataset
